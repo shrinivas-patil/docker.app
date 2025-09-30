@@ -28,7 +28,11 @@ public class WelcomeRestController {
 		logger.info("******************************************************************");
 		return msg;
 	}
-	
+	// task - 3
+	public void m2(){
+		//logic
+	}
+
 	@GetMapping("/greet")
 	public String greetMsg() {
 		logger.info("***** greetMsg() execution start *****");
