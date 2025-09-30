@@ -13,6 +13,7 @@ public class WelcomeRestController {
 
 	public WelcomeRestController() {
 		logger.info("***** WelcomeRestController :: Constructor *****");
+		int i = 120;
 	}
 
 	@GetMapping
@@ -46,6 +47,7 @@ public class WelcomeRestController {
 	
 	
 }
+
 
 
 
