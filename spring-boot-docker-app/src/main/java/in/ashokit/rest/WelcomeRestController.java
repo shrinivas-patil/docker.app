@@ -14,6 +14,7 @@ public class WelcomeRestController {
 	public WelcomeRestController() {
 		logger.info("***** WelcomeRestController :: Constructor *****");
 		int i = 150;
+		int i = 120;
 	}
 
 	@GetMapping
@@ -36,6 +37,7 @@ public class WelcomeRestController {
 		logger.info("***** greetMsg() execution end *****");
 		int i = 10;
 		int i = 30;
+		int i = 50;
 		int i = 40;
 		int i = 20;
 		logger.info("***** greetMsg() execution successfull *****");
@@ -46,6 +48,9 @@ public class WelcomeRestController {
 	
 	
 }
+
+
+
 
 
 
