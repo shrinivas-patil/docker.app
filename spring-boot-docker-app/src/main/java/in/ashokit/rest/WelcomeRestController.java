@@ -31,6 +31,7 @@ public class WelcomeRestController {
 	// task - 3
 	public void m2(){
 		String ame = "Shrii";
+		String Brand = "Shrii";
 		//logic
 		
 	}
@@ -61,6 +62,7 @@ public class WelcomeRestController {
 	}
 	
 }
+
 
 
 
