@@ -50,6 +50,13 @@ public class WelcomeRestController {
 		return msg;
 	}
 	
+	//task - 320 
+	public void m1(){
+		int i = 10;
+		int i = 20;
+		int k = i + j;
+		//logic
+	}
 	
 }
 
