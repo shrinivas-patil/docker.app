@@ -13,7 +13,6 @@ public class WelcomeRestController {
 
 	public WelcomeRestController() {
 		logger.info("***** WelcomeRestController :: Constructor *****");
-		logger.info("***** WelcomeRestController *****");
 	}
 
 	@GetMapping
@@ -47,6 +46,7 @@ public class WelcomeRestController {
 	
 	
 }
+
 
 
 
