@@ -36,6 +36,7 @@ public class WelcomeRestController {
 		int i = 10;
 		int i = 30;
 		int i = 50;
+		int i = 40;
 		int i = 20;
 		logger.info("***** greetMsg() execution successfull *****");
 		boolean status = false;
@@ -45,5 +46,6 @@ public class WelcomeRestController {
 	
 	
 }
+
 
 
