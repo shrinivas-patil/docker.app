@@ -19,8 +19,9 @@ public class WelcomeRestController {
 	public String welcomeMsg() {
 		logger.info("***** welcomeMsg() execution start *****");
 		String msg = "Welcome to Ashok IT - Software Training Institute (HYD) ..!!";
-		logger.info("***** welcomeMsg() execution end *****");
+		logger.info("***** welcomeMsg() execution end *****")
 		String sm ="hey";
+		String st = "hii";
 		String s = "hello";
 		logger.info("******************************************************************");
 		return msg;
@@ -41,3 +42,4 @@ public class WelcomeRestController {
 	
 	
 }
+
